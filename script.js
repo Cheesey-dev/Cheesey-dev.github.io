@@ -1,7 +1,7 @@
 function getRemainingTime() {
     const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
-    const regex = window.location.href.match(/http:\/\/www.kittybot\.me\/\?(end)=(\d+)/)
+    const regex = window.location.href.match(/https:\/\/www.kittybot\.me\/\?(end)=(\d+)/)
 
     if (!regex) {
         document.getElementById('ends').innerHTML = 'Invalid Giveaway'
