@@ -1,0 +1,19 @@
+{
+  "name": "rilp-bot-timer",
+  "version": "1.0.0",
+  "description": "The giveaway timer for dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RILPBOT/RILP-BOT-Timer.git"
+  },
+  "author": "RILP DEVELOPMENT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RILPBOT/RILP-BOT-Timer/issues"
+  },
+  "homepage": "https://github.com/RILPBOT/RILP-BOT-Timer#readme"
+}
